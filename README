@@ -1,5 +1,7 @@
 Config-Validator
 
+WARNING: This software is not maintained anymore.
+
 This module allows to perform schema based configuration validation.
 
 The idea is to define in a schema what valid data is. This schema can
